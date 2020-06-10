@@ -1,0 +1,71 @@
+html{
+	height: 125%;
+}
+body {
+ background-image: url("images/background.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#box{
+	flex-wrap: 1;
+	padding: 10px 10px 10px 10px; 
+	max-width: 300px;
+	font-family: cursive;
+}
+#dropdown{
+	flex-wrap: 1;
+	padding: 10px 10px 10px 10px; 
+	max-width: 300px;
+	font-family: cursive;
+}
+#number{
+	flex-wrap: 1;
+	padding: 10px 10px 10px 10px; 
+	max-width: 300px;
+	font-family: cursive;
+}
+
+
+.comment{
+	width: 290px;
+	height:200px;
+	padding-right: 10px; 
+}
+#container3 {
+	opacity: 0.75;
+	position: relative;
+	background: pink;
+	width: 400px;
+	height: 100%;
+	margin: auto;
+}
+#survey-form{
+	line-height: 30px; 
+	font-size: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: cursive,Arial;
+	
+}
+#title {
+	margin:auto;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: cursive;
+}
+#description {
+	margin:auto;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+}
+#button{
+	position: relative;
+	left: 120px;
+	padding: 10px 15px;
+}
